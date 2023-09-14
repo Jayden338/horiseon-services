@@ -1,13 +1,14 @@
 ## Horiseon-Services
 
 # Description 
-I have optimized the HMTL and CSS for the Horiseon webpage by condensing code down from the original source and labeling the elements to be more accessable to everyone.
+I have improved Horiseon's webpage to meet accessibility standards by restructuring the semantic elements and making the webpage code follow a logical structure in HMTL and CSS, While making sure it is also optomized for search engines.
+
 # Screenshots
 ![Horiseon Services Live](https://github.com/Jayden338/horiseon-services/assets/136901914/e4e73ebc-5f8b-4591-b25f-2406d50bfc9d) 
 
-I have screen shots of every step of the project and the web app going live.
+I have screen shots of all the changes I have made during the project in the Link below.
 
 Link: https://github.com/Jayden338/horiseon-services/tree/main/Screenshots
 
 # Website
-link: https://jayden338.github.io/horiseon-services/
+Link: https://jayden338.github.io/horiseon-services/
